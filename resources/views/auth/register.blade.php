@@ -90,8 +90,9 @@
                                 </div>
                                 <a href="">Forgot Password</a>
                             </div>
+                            <button type="submit" class="btn btn-primary py-3 w-100 mb-4">Sign Up</button>
+
                         </form>
-                        <button type="submit" class="btn btn-primary py-3 w-100 mb-4">Sign Up</button>
                         <p class="text-center mb-0">Already have an Account? <a href="">Sign In</a></p>
                     </div>
                 </div>
